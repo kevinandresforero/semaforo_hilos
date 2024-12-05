@@ -34,7 +34,8 @@ El código está estructurado en las siguientes clases y métodos principales:
    ```bash
    cd simulador-semaforo-hilos
 
-3. Activa el entorno virtual
+3. Opcional
+   Activa el entorno virtual
   ```bash
   python -m venv venv
   source venv/bin/activate  # En Linux/Mac
